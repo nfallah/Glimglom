@@ -13,5 +13,5 @@ An attempt to recreate the popular 2D fish-eating genre into 3D -- gone wrong. S
 Written in C# and created in conjunction with the Unity game engine and its standard library
 
 ## Credits
-__Lead Programmer__: Nima Fallah  
-__Modelers:__ Youssef Bousada, Tyler Lam
+__Programming__: Nima Fallah  
+__Modeling:__ Youssef Bousada, Tyler Lam
