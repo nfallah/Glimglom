@@ -1,0 +1,4 @@
+repository "Glimglom@nfallah@cloud"
+  path "/"
+    br "/main"
+    co "/main"
